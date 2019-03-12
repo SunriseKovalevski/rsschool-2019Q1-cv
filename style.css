@@ -8,6 +8,7 @@
     overflow: hidden;
     }
  header, ul, footer{
+   text-align: center;
    background-color: DarkGray;
  }
  header, main,{
@@ -21,9 +22,9 @@ h1{
   font-size: 40px;
 }
 main{
-  height: 400px;
+  height: 700px;
   margin: auto;
-
+  text-align: center;
 }
 footer{
   display: grid;
